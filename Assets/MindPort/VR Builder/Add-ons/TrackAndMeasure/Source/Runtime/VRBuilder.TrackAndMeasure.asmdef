@@ -1,0 +1,25 @@
+{
+    "name": "VRBuilder.TrackAndMeasure",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c8561f9de838ac04d8feeda695bc572d",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "VR_BUILDER"
+    ],
+    "versionDefines": [
+        {
+            "name": "co.mindport.builder.core",
+            "expression": "1.2.0",
+            "define": "VR_BUILDER"
+        }
+    ],
+    "noEngineReferences": false
+}

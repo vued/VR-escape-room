@@ -1,0 +1,22 @@
+{
+    "name": "VRBuilder.Animations",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c8561f9de838ac04d8feeda695bc572d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "co.mindport.builder.core",
+            "expression": "0.5.0",
+            "define": "VR_BUILDER"
+        }
+    ],
+    "noEngineReferences": false
+}
